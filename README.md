@@ -1,6 +1,6 @@
 WorldMap create a pdf showing every location that I visited around the world.
 
-world.pdf is the output
+output.pdf is the output
 world.gp create the world map
 world.dat is the data to create the map
 coordinate.dat is the coordinates of the visited location
